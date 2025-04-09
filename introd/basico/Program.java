@@ -1,4 +1,4 @@
-package introd;
+package introd.basico;
 // dependências pra coleções
 import java.util.ArrayList;
 import java.util.List;

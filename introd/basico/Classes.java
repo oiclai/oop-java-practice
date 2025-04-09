@@ -1,4 +1,4 @@
-package introd;
+package introd.basico;
 
 public class Classes {
     public class Pessoa {
